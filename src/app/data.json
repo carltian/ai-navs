@@ -1,0 +1,365 @@
+[
+  {
+    "title": "AI热门工具",
+    "cards": [
+      {
+        "id": "101",
+        "name": "豆包",
+        "desc": "抖音旗下AI助手，支持对话、写作、编程等多种功能",
+        "img": "/img/doubao.svg",
+        "link": "https://www.doubao.com",
+        "tags": ["免费", "国产"]
+      },
+      {
+        "id": "102",
+        "name": "DeepSeek",
+        "desc": "深度求索推出的开源大模型，性能强劲",
+        "img": "/img/deepseek.svg",
+        "link": "https://www.deepseek.com",
+        "tags": ["免费", "国产", "开源"]
+      },
+      {
+        "id": "103",
+        "name": "ChatGPT",
+        "desc": "OpenAI推出的AI对话模型，全球领先的AI助手",
+        "img": "/img/chatgpt.svg",
+        "link": "https://chat.openai.com",
+        "tags": ["付费", "国外"]
+      },
+      {
+        "id": "104",
+        "name": "Claude",
+        "desc": "Anthropic推出的AI助手，擅长长文本处理",
+        "img": "/img/claude.svg",
+        "link": "https://claude.ai",
+        "tags": ["付费", "国外"]
+      },
+      {
+        "id": "105",
+        "name": "千问",
+        "desc": "阿里巴巴推出的AI助手，支持多种场景应用",
+        "img": "/img/qianwen.svg",
+        "link": "https://tongyi.aliyun.com",
+        "tags": ["免费", "国产"]
+      },
+      {
+        "id": "106",
+        "name": "Kimi",
+        "desc": "月之暗面推出的AI助手，擅长长文本处理",
+        "img": "/img/kimi.svg",
+        "link": "https://kimi.moonshot.cn",
+        "tags": ["免费", "国产"]
+      },
+      {
+        "id": "107",
+        "name": "文心一言",
+        "desc": "百度推出的AI对话模型，中文理解能力强",
+        "img": "/img/wenxin.svg",
+        "link": "https://yiyan.baidu.com",
+        "tags": ["免费", "国产"]
+      }
+    ]
+  },
+  {
+    "title": "AI对话工具",
+    "cards": [
+      {
+        "id": "201",
+        "name": "ChatGPT",
+        "desc": "OpenAI推出的AI对话模型",
+        "img": "/img/chatgpt.svg",
+        "link": "https://chat.openai.com",
+        "tags": ["付费", "国外"]
+      },
+      {
+        "id": "202",
+        "name": "Claude",
+        "desc": "Anthropic推出的AI助手",
+        "img": "/img/claude.svg",
+        "link": "https://claude.ai",
+        "tags": ["付费", "国外"]
+      },
+      {
+        "id": "203",
+        "name": "豆包",
+        "desc": "抖音旗下AI助手",
+        "img": "/img/doubao.svg",
+        "link": "https://www.doubao.com",
+        "tags": ["免费", "国产"]
+      },
+      {
+        "id": "204",
+        "name": "Kimi",
+        "desc": "月之暗面推出的AI助手",
+        "img": "/img/kimi.svg",
+        "link": "https://kimi.moonshot.cn",
+        "tags": ["免费", "国产"]
+      },
+      {
+        "id": "205",
+        "name": "通义千问",
+        "desc": "阿里巴巴推出的AI对话模型",
+        "img": "/img/qianwen.svg",
+        "link": "https://tongyi.aliyun.com",
+        "tags": ["免费", "国产"]
+      },
+      {
+        "id": "206",
+        "name": "文心一言",
+        "desc": "百度推出的AI对话模型",
+        "img": "/img/wenxin.svg",
+        "link": "https://yiyan.baidu.com",
+        "tags": ["免费", "国产"]
+      },
+      {
+        "id": "207",
+        "name": "智谱清言",
+        "desc": "智谱AI推出的AI助手",
+        "img": "/img/zhipu.svg",
+        "link": "https://chatglm.cn",
+        "tags": ["免费", "国产"]
+      }
+    ]
+  },
+  {
+    "title": "AI编程工具",
+    "cards": [
+      {
+        "id": "301",
+        "name": "GitHub Copilot",
+        "desc": "GitHub推出的AI编程助手，支持多种编程语言",
+        "img": "/img/copilot.svg",
+        "link": "https://github.com/features/copilot",
+        "tags": ["付费", "国外"]
+      },
+      {
+        "id": "302",
+        "name": "Cursor",
+        "desc": "AI驱动的代码编辑器，提升编程效率",
+        "img": "/img/cursor.svg",
+        "link": "https://cursor.sh",
+        "tags": ["付费", "国外"]
+      },
+      {
+        "id": "303",
+        "name": "Codeium",
+        "desc": "免费的AI编程助手，支持多种IDE",
+        "img": "/img/codeium.svg",
+        "link": "https://codeium.com",
+        "tags": ["免费", "国外"]
+      },
+      {
+        "id": "304",
+        "name": "Tabnine",
+        "desc": "AI代码补全工具，支持多种编程语言",
+        "img": "/img/tabnine.svg",
+        "link": "https://www.tabnine.com",
+        "tags": ["付费", "国外"]
+      },
+      {
+        "id": "305",
+        "name": "通义灵码",
+        "desc": "阿里推出的AI编程助手",
+        "img": "/img/tongyi-code.svg",
+        "link": "https://tongyi.aliyun.com/lingma",
+        "tags": ["免费", "国产"]
+      },
+      {
+        "id": "306",
+        "name": "CodeGeeX",
+        "desc": "清华推出的AI编程助手",
+        "img": "/img/codegeex.svg",
+        "link": "https://codegeex.cn",
+        "tags": ["免费", "国产"]
+      }
+    ]
+  },
+  {
+    "title": "AI绘画",
+    "cards": [
+      {
+        "id": "401",
+        "name": "Midjourney",
+        "desc": "AI绘画工具，生成高质量艺术作品",
+        "img": "/img/midjourney.svg",
+        "link": "https://www.midjourney.com",
+        "tags": ["付费", "国外"]
+      },
+      {
+        "id": "402",
+        "name": "Stable Diffusion",
+        "desc": "开源AI绘画模型，支持本地部署",
+        "img": "/img/sd.svg",
+        "link": "https://stability.ai",
+        "tags": ["免费", "国外", "开源"]
+      },
+      {
+        "id": "403",
+        "name": "DALL-E",
+        "desc": "OpenAI推出的AI绘画工具",
+        "img": "/img/dalle.svg",
+        "link": "https://openai.com/dall-e-3",
+        "tags": ["付费", "国外"]
+      },
+      {
+        "id": "404",
+        "name": "文心一格",
+        "desc": "百度推出的AI绘画平台",
+        "img": "/img/wenxin-yige.svg",
+        "link": "https://yige.baidu.com",
+        "tags": ["免费", "国产"]
+      },
+      {
+        "id": "405",
+        "name": "通义万相",
+        "desc": "阿里推出的AI绘画工具",
+        "img": "/img/tongyi-wanxiang.svg",
+        "link": "https://tongyi.aliyun.com/wanxiang",
+        "tags": ["免费", "国产"]
+      },
+      {
+        "id": "406",
+        "name": "即梦",
+        "desc": "字节跳动推出的AI绘画工具",
+        "img": "/img/jimeng.svg",
+        "link": "https://jimeng.jianying.com",
+        "tags": ["免费", "国产"]
+      }
+    ]
+  },
+  {
+    "title": "AI新闻",
+    "cards": [
+      {
+        "id": "501",
+        "name": "36氪",
+        "desc": "科技媒体，AI行业资讯",
+        "img": "/img/36kr.svg",
+        "link": "https://36kr.com",
+        "tags": ["免费", "国产"]
+      },
+      {
+        "id": "502",
+        "name": "机器之心",
+        "desc": "AI科技媒体，深度报道",
+        "img": "/img/jiqizhixin.svg",
+        "link": "https://www.jiqizhixin.com",
+        "tags": ["免费", "国产"]
+      },
+      {
+        "id": "503",
+        "name": "新智元",
+        "desc": "AI科技媒体，行业动态",
+        "img": "/img/xinzhnyuan.svg",
+        "link": "https://www.xinzhnyuan.com",
+        "tags": ["免费", "国产"]
+      },
+      {
+        "id": "504",
+        "name": "量子位",
+        "desc": "AI科技媒体，前沿技术",
+        "img": "/img/liangziwei.svg",
+        "link": "https://www.qbitai.com",
+        "tags": ["免费", "国产"]
+      },
+      {
+        "id": "505",
+        "name": "AI科技评论",
+        "desc": "AI学术与技术评论",
+        "img": "/img/ai-review.svg",
+        "link": "https://www.aitecreview.com",
+        "tags": ["免费", "国产"]
+      }
+    ]
+  },
+  {
+    "title": "大模型API",
+    "cards": [
+      {
+        "id": "601",
+        "name": "OpenAI API",
+        "desc": "GPT系列模型API接口",
+        "img": "/img/openai-api.svg",
+        "link": "https://platform.openai.com",
+        "tags": ["付费", "国外"]
+      },
+      {
+        "id": "602",
+        "name": "DeepSeek API",
+        "desc": "DeepSeek模型API接口",
+        "img": "/img/deepseek-api.svg",
+        "link": "https://platform.deepseek.com",
+        "tags": ["付费", "国产"]
+      },
+      {
+        "id": "603",
+        "name": "通义千问API",
+        "desc": "阿里云大模型API接口",
+        "img": "/img/qianwen-api.svg",
+        "link": "https://dashscope.aliyun.com",
+        "tags": ["付费", "国产"]
+      },
+      {
+        "id": "604",
+        "name": "文心一言API",
+        "desc": "百度大模型API接口",
+        "img": "/img/wenxin-api.svg",
+        "link": "https://cloud.baidu.com/product/wenxinworkshop",
+        "tags": ["付费", "国产"]
+      },
+      {
+        "id": "605",
+        "name": "智谱API",
+        "desc": "智谱AI大模型API接口",
+        "img": "/img/zhipu-api.svg",
+        "link": "https://open.bigmodel.cn",
+        "tags": ["付费", "国产"]
+      }
+    ]
+  },
+  {
+    "title": "Agent工具",
+    "cards": [
+      {
+        "id": "701",
+        "name": "Coze",
+        "desc": "字节跳动推出的AI Bot开发平台",
+        "img": "/img/coze.svg",
+        "link": "https://www.coze.cn",
+        "tags": ["免费", "国产"]
+      },
+      {
+        "id": "702",
+        "name": "Dify",
+        "desc": "开源的LLM应用开发平台",
+        "img": "/img/dify.svg",
+        "link": "https://dify.ai",
+        "tags": ["免费", "国产", "开源"]
+      },
+      {
+        "id": "703",
+        "name": "FastGPT",
+        "desc": "开源的知识库问答系统",
+        "img": "/img/fastgpt.svg",
+        "link": "https://fastgpt.in",
+        "tags": ["免费", "国产", "开源"]
+      },
+      {
+        "id": "704",
+        "name": "GPTs",
+        "desc": "OpenAI推出的自定义GPT平台",
+        "img": "/img/gpts.svg",
+        "link": "https://chat.openai.com/gpts",
+        "tags": ["付费", "国外"]
+      },
+      {
+        "id": "705",
+        "name": "AgentGPT",
+        "desc": "自主AI Agent平台",
+        "img": "/img/agentgpt.svg",
+        "link": "https://agentgpt.reworkd.ai",
+        "tags": ["免费", "国外"]
+      }
+    ]
+  }
+]
