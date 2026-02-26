@@ -130,7 +130,7 @@ Copyright © 2026 AI导航站 - 所有权利保留
 <table>
   <tr>
     <td align="center">
-      <img src="/wechat-qrcode.jpg" width="150" />
+      <img src="public/wechat-qrcode.jpg" width="150" />
       <br/>
       <b>公众号</b>
     </td>
