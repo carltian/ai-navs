@@ -359,6 +359,14 @@
         "img": "/img/agentgpt.svg",
         "link": "https://agentgpt.reworkd.ai",
         "tags": ["免费", "国外"]
+      },
+      {
+        "id": "706",
+        "name": "agent-qa",
+        "desc": "CLI/MCP 测试 Web、Android、iOS，结合 memidex 持久记忆、验证式自我改进与可复核证据",
+        "img": "/img/agent-qa.png",
+        "link": "https://vostride.com",
+        "tags": ["CLI/MCP", "应用测试"]
       }
     ]
   }

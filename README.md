@@ -28,7 +28,7 @@ AI 导航站是一个精心打造的 AI 工具导航平台，收录了 41 个优
 | AI 绘画     | 6        | Midjourney、Stable Diffusion、DALL-E 等               |
 | AI 新闻     | 5        | 36氪、机器之心、新智元等                              |
 | 大模型 API  | 5        | OpenAI API、DeepSeek API、通义千问 API 等             |
-| Agent 工具  | 5        | Coze、Dify、FastGPT 等                                |
+| Agent 工具  | 6        | Coze、Dify、FastGPT 等                                |
 
 ## 技术栈
 
